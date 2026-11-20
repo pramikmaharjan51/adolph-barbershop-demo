@@ -1,0 +1,2 @@
+# Saxonville Mills Cafe & Roastery — Independent Concept
+2 Central St, Framingham MA 01701 USA. Official site https://saxonvillecafe.com/. Phone (508) 309-3294, email saxonvillecafe@gmail.com. Warm handcrafted farm-to-cup visual direction, custom editorial layout, responsive menu, motion reduced, stock labels, official links, noindex, CSP and location map. Not affiliated or endorsed. Verify current menu prices.

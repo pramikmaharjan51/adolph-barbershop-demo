@@ -1,0 +1,2 @@
+# Just A Touch — Unofficial Website Concept
+Source: https://justatouchbarbershop.com/contact-us/ . Address: 340 US 9 N, Manalapan, NJ 07726. Phone (732) 851-4495. Email justatouchnj@gmail.com. Visible issue: multiple contact-page footer links route to pink-giraffe-908514.hostingersite.com. Responsive original editorial layout, brief intro, motion reduction, mobile navigation, service categories, stock-photo labels, map, direct contact, restrictive CSP and noindex. No actual business photos or ownership claimed. No published price verified. Remove if business objects.

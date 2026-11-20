@@ -1,0 +1,7 @@
+# Adolph's Barber Shop — Unofficial Demo
+
+This is an independent, unofficial website design concept, not operated or endorsed by the business.
+
+Do not treat it as an authoritative source for business hours, prices, booking, service availability or ownership.
+
+Preview: https://adolph-barbershop-unofficial-demo.vercel.app/
